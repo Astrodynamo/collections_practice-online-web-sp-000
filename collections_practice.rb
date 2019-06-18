@@ -1,4 +1,3 @@
-
 def sort_array_asc (array)
   
 end
@@ -31,4 +30,6 @@ def sum_array (array)
   
 end
 
-def 
+def add_s (array)
+  
+end
